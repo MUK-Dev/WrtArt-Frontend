@@ -1,0 +1,8 @@
+.Register {
+	transition: all 0.3s ease-in;
+	height: 100vh;
+}
+
+.TurnGreen {
+	background-color: rgb(49, 124, 49);
+}
